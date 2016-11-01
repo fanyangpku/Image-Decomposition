@@ -1,2 +1,2 @@
-# image-decomposition
+# Image-Decomposition
 Implementation of Image Decomposition
