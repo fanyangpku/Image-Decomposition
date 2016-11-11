@@ -19,6 +19,7 @@ The TV-based method has been widely used in image structure-texture decompositio
 
 #Super-Resolution Based on Image Decomposition
 In ICIP 2013, Sakurai et. al. published a paper called Super-Resolution Through Non-Linear Enhancement Filters. Here we re-implement their method and compare with our results. Our source code will be coming soon.
+
 **Sakurai**
 
 ![image](https://github.com/FanYang-PKU/Image-Decomposition/raw/master/image-folder/figure4c.jpg)
